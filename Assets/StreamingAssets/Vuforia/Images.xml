@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="rsz_el_presidio_augemented_reality_photo_080217" size="5.000000 5.000000" />
+    <ImageTarget name="PresidioChloris1816" size="5.000000 2.262397" />
+    <ImageTarget name="map_of_the_Presidio_76" size="5.000000 2.760563" />
+    <ImageTarget name="Louis_Choris_Boy_300_dip" size="5.000000 7.589098" />
+    <ImageTarget name="rsz_1img_4975" size="5.000000 12.595182" />
+    <ImageTarget name="concepcion_Rezanov" size="5.000000 3.947368" />
+    <ImageTarget name="Choris_Ohlone_war_dance_costumes" size="5.000000 7.117647" />
+    <ImageTarget name="rsz_choris_1815_presidio" size="5.000000 2.732049" />
+    <ImageTarget name="Chapel" size="5.000000 4.994649" />
+    <ImageTarget name="Briones_Adobe_Killackey" size="5.000000 3.861454" />
+    <ImageTarget name="Archaeolgist_Levantar_2012_300_dip" size="5.000000 3.448099" />
+    <ImageTarget name="rsz_adelbert_von_chamisso" size="5.000000 6.666667" />
+    <ImageTarget name="1280px-Presidio_of_SF_cannon_Poder_side" size="5.000000 3.750000" />
+    <ImageTarget name="rsz_bigmap_labels_42517" size="5.000000 5.000000" />
+    <ImageTarget name="Blank_High_Res_Map" size="5.000000 5.430174" />
+    <ImageTarget name="High_Res_1815_Outline" size="5.000000 5.106816" />
+  </Tracking>
+</QCARConfig>
